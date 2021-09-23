@@ -1,0 +1,354 @@
+!SESSION 2021-09-16 23:05:52.565 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=16.0.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_BE
+Command-line arguments:  -data /Users/jos/.local/share/nvim/lspinstall/java/workspace/-Users-jos-Projects-TileWorldJava-
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.512
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.799
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.846
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.848
+!MESSAGE Initializing Java Language Server 1.4.0.202109161824
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.886
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.887
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.893
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.895
+!MESSAGE Wait for AutoBuildOffJob end 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.896
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.898
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.899
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.899
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:55.925
+!MESSAGE Started org.eclipse.buildship.core 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.004
+!MESSAGE LoadingGradleVersionJob finished 1076ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.075
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.076
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.317
+!MESSAGE Default VM Install changed from  null to net.adoptopenjdk.16.jdk-/Library/Java/JavaVirtualMachines/adoptopenjdk-16.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.347
+!MESSAGE defaultVMInstallChanged -> force update of jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:57.392
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:05:58.444
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:01.063
+!MESSAGE Workspace initialized in 4055ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:01.090
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:01.108
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:03.533
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.444
+!MESSAGE begin problem for /Grid.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.448
+!MESSAGE 0 problems reported for /Grid.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.466
+!MESSAGE Validated 1. Took 1664 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.503
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.569
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:05.569
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:08.709
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:26.149
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:26.181
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:26.257
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:26.271
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-09-16 23:06:35.664 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=16.0.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_BE
+Command-line arguments:  -data /Users/jos/.local/share/nvim/lspinstall/java/workspace/-Users-jos-Projects-TileWorldJava-
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:37.710
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:37.958
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.002
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.004
+!MESSAGE Initializing Java Language Server 1.4.0.202109161824
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.039
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.040
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.049
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.052
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.067
+!MESSAGE ProjectRegistryRefreshJob finished 15ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.068
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.094
+!MESSAGE Started org.eclipse.buildship.core 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.121
+!MESSAGE LoadingGradleVersionJob finished 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.156
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:38.807
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:39.973
+!MESSAGE Workspace initialized in 1849ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:39.987
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:40.001
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:40.722
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.559
+!MESSAGE begin problem for /Grid.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.561
+!MESSAGE 0 problems reported for /Grid.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.572
+!MESSAGE Validated 1. Took 1837 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.578
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.598
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:06:42.598
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:14.009
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:14.030
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:14.486
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:15.868
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:15.871
+!MESSAGE 0 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:15.872
+!MESSAGE Validated 1. Took 975 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:22.109
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:28.200
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:30.412
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:48.046
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:48.628
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:48.728
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:48.741
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:48.887
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:49.227
+!MESSAGE Reconciled 1. Took 89 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:49.974
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:49.975
+!MESSAGE 8 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:07:49.976
+!MESSAGE Validated 1. Took 341 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:58.814
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:59.297
+!MESSAGE Reconciled 1. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:59.887
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:59.888
+!MESSAGE 8 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:59.889
+!MESSAGE Validated 1. Took 185 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:08:59.961
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:09:00.400
+!MESSAGE Reconciled 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:09:01.027
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:09:01.029
+!MESSAGE 8 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:09:01.029
+!MESSAGE Validated 1. Took 221 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:09:06.926
+!MESSAGE >> document/references
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:01.438
+!MESSAGE >> document/rename
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:01.970
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:02.450
+!MESSAGE Reconciled 1. Took 63 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:03.019
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:03.020
+!MESSAGE 8 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:03.021
+!MESSAGE Validated 1. Took 162 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:07.143
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:07.668
+!MESSAGE Reconciled 1. Took 116 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:08.340
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:08.340
+!MESSAGE 6 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:08.341
+!MESSAGE Validated 1. Took 265 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:13.604
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:14.049
+!MESSAGE Reconciled 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:14.639
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:14.639
+!MESSAGE 8 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:14.640
+!MESSAGE Validated 1. Took 184 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:24.585
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:25.041
+!MESSAGE Reconciled 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:25.775
+!MESSAGE begin problem for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:25.776
+!MESSAGE 0 problems reported for /GraphicalGridView.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:25.776
+!MESSAGE Validated 1. Took 328 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:51.638
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:51.736
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:51.742
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:51.840
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-09-16 23:10:51.879
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

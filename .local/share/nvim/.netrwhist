@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/jos/Projects/TileWorldElectron'
+let g:netrw_dirhist_3='/Users/jos/Projects/TileWorldGo/src/tileworld'
+let g:netrw_dirhist_2='/Users/jos/Projects/TileWorldJava/src/main/java/mas'
+let g:netrw_dirhist_1='/Users/jos/Projects/TileWorldJava/src/main/java'
+let g:netrw_dirhist_0='/Users/jos/Projects/TileWorldJava/src/main/java/mas'
+let g:netrw_dirhist_9='/Users/jos/Projects/TileWorldJava/src/main/java'
+let g:netrw_dirhist_8='/Users/jos/Projects/TileWorldJava/src/main'
+let g:netrw_dirhist_7='/Users/jos/Projects/TileWorldJava/src'
+let g:netrw_dirhist_6='/Users/jos/Projects/TileWorldJava'
+let g:netrw_dirhist_5='/Users/jos/Projects/TileWorldJava/src/main/java/mas'
